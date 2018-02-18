@@ -37,7 +37,6 @@ articleThree:{
             This is content of my Three article. This is content of my first article. This is content of my first article. This is content of my first article. This is content of my first article.
             </p>`
 }
-    
 };
 function createTemplate(data){
     var title = data.title;
